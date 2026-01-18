@@ -30,6 +30,6 @@ Git | Streamlit | Figma | Canva
 
 📫 Let’s Connect
 📧 Email: gourikaudasi23@gmail.com
-💼 LinkedIn: [(add your link)](https://www.linkedin.com/in/gourika-udasi/)
+💼 LinkedIn: https://www.linkedin.com/in/gourika-udasi/
 
 ⭐ Open to internship and full-time opportunities where I can build impactful products, learn from real systems, and grow as an engineer.
