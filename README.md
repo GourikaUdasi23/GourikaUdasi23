@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I’m Gourika Udasi
 
-<!--
-**GourikaUdasi23/GourikaUdasi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer with hands-on experience in Generative AI, RAG systems, and the MERN stack, focused on building scalable and intelligent web applications.
 
-Here are some ideas to get you started:
+👩‍💻 About Me
+🎓 B.E. in Computer Science Engineering from Thadomal Shahani Engineering College, Mumbai
+💡 Interested in product-based development, full-stack engineering, and AI-powered systems
+🧠 Strong foundation in problem solving, data structures, and object-oriented programming
+🌱 Continuously learning and improving through real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Languages:
+JavaScript | Python | Java | C
+
+Frontend:
+React.js | HTML | CSS | TailwindCSS
+
+Backend:
+Node.js | Express.js | LangChain
+
+Databases:
+MongoDB | MySQL | Vector Databases (Qdrant, ChromaDB)
+
+AI / GenAI:
+LLM Integration | Retrieval-Augmented Generation (RAG) | Prompt Engineering
+
+Tools:
+Git | Streamlit | Figma | Canva
+
+📫 Let’s Connect
+📧 Email: gourikaudasi23@gmail.com
+💼 LinkedIn: [(add your link)](https://www.linkedin.com/in/gourika-udasi/)
+
+⭐ Open to internship and full-time opportunities where I can build impactful products, learn from real systems, and grow as an engineer.
