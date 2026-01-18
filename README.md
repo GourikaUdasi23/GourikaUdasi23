@@ -3,7 +3,7 @@
 🚀 Full-Stack Developer with hands-on experience in Generative AI, RAG systems, and the MERN stack, focused on building scalable and intelligent web applications.
 
 👩‍💻 About Me
-🎓 B.E. in Computer Science Engineering from Thadomal Shahani Engineering College, Mumbai
+🎓 In Third Year B.E. in Computer Science Engineering from Thadomal Shahani Engineering College, Mumbai
 💡 Interested in product-based development, full-stack engineering, and AI-powered systems
 🧠 Strong foundation in problem solving, data structures, and object-oriented programming
 🌱 Continuously learning and improving through real-world projects
